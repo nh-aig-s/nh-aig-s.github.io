@@ -453,13 +453,13 @@ function App() {
               </a>
             </div>
 
-            <div className="auth-center">
+            {/* <div className="auth-center">
               <a href="https://drive.google.com/file/d/1ks2q9BZoDByhJcFlnl-C1yJdAJxkTtfH/view?usp=sharing" 
                  target="_blank" 
                  rel="noopener noreferrer">
                 실습파일 다운로드
               </a>
-            </div>
+            </div> */}
 
             {renderSlideList()}
           </ul>
